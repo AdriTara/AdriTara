@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Job(s)
 
-### [Developmental Neurobiology lab 🪱💻](https://www.ibv.csic.es/project/neurobiologia-del-desarrollo/) && [Molecular Nuerobiology lab 🧫💻] (https://farinaslab.com)
+### [Developmental Neurobiology lab 🪱💻](https://www.ibv.csic.es/project/neurobiologia-del-desarrollo/) && [Molecular Nuerobiology lab 🧫💻](https://farinaslab.com)
 
 During the day, I am a shared PhD candidate between the Developmental Neurobiology team led by Dr. Nuria Flames and the Cellular Biology team led by Dr. Isabel Farinas, where we do a bunch of analysis related mainly with single cell sequencing, but also other stuff related to structural genomics (transposable element presence in Caenorhabditis), genome evolution and gene regulatory network inference. Most of the code I write (and push to `github`) comes from this lab work, and therefore everything is (by now) closed source 🤔. Sorry.
 
